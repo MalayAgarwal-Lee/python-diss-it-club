@@ -19,7 +19,7 @@ This how you are supposed to submit your exercises for review:
 * Clone the repository onto your PC. To do this, open Git Bash and type this in your current working directory:
 
     ```console
-    $ git clone <url>
+    $ git clone https://github.com/MalayAgarwal-Lee/python-diss-it-club.git
     ```
 
 * Create a new branch in the Git repository. To do this:
